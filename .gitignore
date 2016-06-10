@@ -1,0 +1,11 @@
+target/
+.idea/
+.metadata/
+.recommenders/
+.project
+.settings/
+.designer/
+*.iml
+.classpath
+rebel.xml
+*.swp
